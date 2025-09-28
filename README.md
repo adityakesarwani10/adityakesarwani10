@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub Profile</h1>
-<h3 align="center">Engineering Student | AI/ML Enthusiast | Full-Stack Learner</h3>
+<h3 align="center">Engineering Student | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 ---
 
@@ -35,26 +35,19 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityakesarwani10&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakesarwani10&theme=radical" alt="streak" />
-</p>
-
----
 
 ## 🌟 Featured Projects
 - 🔹 [RescuePrint](#) – Accident victim identification system with fingerprint & Aadhaar  
-- 🔹 [To-Do List](#) – Simple yet powerful productivity app  
-- 🔹 [Sudoku Solver](#) – Backtracking algorithm to solve puzzles  
+- 🔹 [NutriScan](#) – Know your diet
+- 🔹 [Chatbot](#) – A chatbot that can give you anything 
 
 ---
 
 ## 📬 Connect with Me
 <p align="left">
   <a href="https://github.com/adityakesarwani10"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aditya-kesarwani-057b56311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adityakesarwani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
